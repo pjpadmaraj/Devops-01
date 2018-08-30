@@ -3,3 +3,5 @@ This is a new liine II Have added
 this is a new line 
 This is nother line change in master 
 I will add another line from file C 
+Thu sus us new line 
+This is a new line for c 
